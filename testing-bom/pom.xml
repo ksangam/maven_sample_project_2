@@ -49,7 +49,7 @@
   <!--                                PROPERTIES                               -->
   <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
   <properties>
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.hamcrest-all>1.3</version.hamcrest-all>
     <version.hamcrest-core>1.3</version.hamcrest-core>
     <version.mockito-core>1.10.19</version.mockito-core>
